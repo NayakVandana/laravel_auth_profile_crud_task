@@ -43,7 +43,7 @@
 
 6) Edit
 
-<img src="https://github.com/NayakVandana/laravel_auth_profile_crud_task/blob/main/public/assets/images/image6.png"> 
+<img src="https://github.com/NayakVandana/laravel_auth_profile_crud_task/blob/main/public/assets/images/image_6.png"> 
 
 6) delete
 
