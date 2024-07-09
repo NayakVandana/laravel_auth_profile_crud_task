@@ -16,7 +16,7 @@
 
 9) view project =>  http://127.0.0.1:8000
 
-## Over view
+## Overview
 
 1) Home
 
