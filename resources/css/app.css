@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-set{
+    background: linear-gradient(0deg,#fff  0, #fff  20%, #E8F6FF 0, #E8F6FF);
+}
+.bg-top{
+  background: linear-gradient(180deg, #fff 0, #fff 36%, #E8F6FF 0, #E8F6FF);
+}
+.bg-bottom{
+    background: linear-gradient(0deg, #fff 0, #fff 46%, #E8F6FF 0, #E8F6FF);
+}
+.card-overlay{
+  background: linear-gradient(to bottom, #22306000 0%, #223060e0 100%);
+}
+
+.popup {
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.4);
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  text-align: center;
+}
+
+.popup__content {
+  width: 80%;
+  overflow: auto;
+  padding: 50px;
+  background: white;
+  color: black;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  box-sizing: border-box;
+}
+
+.close {
+  position: absolute;
+  right: 20px;
+  top: 20px;
+  width: 20px;
+  display: block;
+}
+
+.close span {
+  cursor: pointer;
+  position: fixed;
+  width: 20px;
+  height: 3px;
+  background: #099ccc;
+}
+
+.close span:nth-child(1) {
+  transform: rotate(45deg);
+}
+
+.close span:nth-child(2) {
+  transform: rotate(135deg);
+}
+
+.job-description-detail p{
+  
+  font-size: 20px;
+  font-weight: 600;
+}
+.job-description-detail ul{
+  padding: 10px;
+  font-size: 14px;
+  list-style: inside; 
+}
+.ck-editor__editable ul{
+  padding: 0px  50px 0px 50px!important; /* Adjust the padding value as needed */
+}
+
+.ck-editor__editable p{
+  font-size: 20px;
+  font-weight: 600;
+}
+.toast {
+  position: fixed;
+  top: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #008DD2;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  z-index: 9999;
+}
+
+@media (min-width: 768px) {
+  .text-md-center {
+      text-align: center;
+  }
+
+}
