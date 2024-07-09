@@ -24,22 +24,22 @@
 
 2) Register
 
-<img src="https://github.com/NayakVandana/laravel_auth_profile_crud_task/blob/main/public/assets/images/image1.png"> 
+<img src="https://github.com/NayakVandana/laravel_auth_profile_crud_task/blob/main/public/assets/images/image_1.png"> 
 
 1) Login
-<img src="https://github.com/NayakVandana/laravel_auth_profile_crud_task/blob/main/public/assets/images/image2.png"> 
+<img src="https://github.com/NayakVandana/laravel_auth_profile_crud_task/blob/main/public/assets/images/image_2.png"> 
 
 3) Dashborad 
 
-<img src="https://github.com/NayakVandana/laravel_auth_profile_crud_task/blob/main/public/assets/images/image3.png"> 
+<img src="https://github.com/NayakVandana/laravel_auth_profile_crud_task/blob/main/public/assets/images/image_3.png"> 
 
 4) Add
 
-<img src="https://github.com/NayakVandana/laravel_auth_profile_crud_task/blob/main/public/assets/images/image4.png"> 
+<img src="https://github.com/NayakVandana/laravel_auth_profile_crud_task/blob/main/public/assets/images/image_4.png"> 
 
 5) Show
 
-<img src="https://github.com/NayakVandana/laravel_auth_profile_crud_task/blob/main/public/assets/images/image5.png"> 
+<img src="https://github.com/NayakVandana/laravel_auth_profile_crud_task/blob/main/public/assets/images/image_5.png"> 
 
 6) Edit
 
@@ -47,11 +47,11 @@
 
 6) delete
 
-<img src="https://github.com/NayakVandana/laravel_auth_profile_crud_task/blob/main/public/assets/images/image9.png"> 
+<img src="https://github.com/NayakVandana/laravel_auth_profile_crud_task/blob/main/public/assets/images/image_9.png"> 
 
 6) Log out
 
-<img src="https://github.com/NayakVandana/laravel_auth_profile_crud_task/blob/main/public/assets/images/image7.png"> 
+<img src="https://github.com/NayakVandana/laravel_auth_profile_crud_task/blob/main/public/assets/images/image_7.png"> 
 
 
 
