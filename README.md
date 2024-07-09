@@ -37,21 +37,25 @@
 
 <img src="https://github.com/NayakVandana/laravel_auth_profile_crud_task/blob/main/public/assets/images/image_4.png"> 
 
-5) Show
+5) View list
 
 <img src="https://github.com/NayakVandana/laravel_auth_profile_crud_task/blob/main/public/assets/images/image_5.png"> 
 
-6) Edit
+6) Show
 
 <img src="https://github.com/NayakVandana/laravel_auth_profile_crud_task/blob/main/public/assets/images/image_6.png"> 
 
-6) delete
+7) Edit
+
+<img src="https://github.com/NayakVandana/laravel_auth_profile_crud_task/blob/main/public/assets/images/image_7.png"> 
+
+8) delete
 
 <img src="https://github.com/NayakVandana/laravel_auth_profile_crud_task/blob/main/public/assets/images/image_9.png"> 
 
-6) Log out
+9) Log out
 
-<img src="https://github.com/NayakVandana/laravel_auth_profile_crud_task/blob/main/public/assets/images/image_7.png"> 
+<img src="https://github.com/NayakVandana/laravel_auth_profile_crud_task/blob/main/public/assets/images/image_8.png"> 
 
 
 
