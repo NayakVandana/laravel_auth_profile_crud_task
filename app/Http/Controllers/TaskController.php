@@ -58,12 +58,12 @@ class TaskController extends Controller
  
     public function delete($id)
     {
-        $products = Task::findOrFail($id)->delete();
-        if ($products) {
-            session()->flash('success', 'Product Deleted Successfully');
+        $Task = Task::findOrFail($id)->delete();
+        if ($Task) {
+            session()->flash('success', 'Task Deleted Successfully');
             return redirect(route('dashboard'));
         } else {
-            session()->flash('error', 'Product Not Delete successfully');
+            session()->flash('error', 'Task Not Delete successfully');
             return redirect(route('dashboard'));
         }
     }

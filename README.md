@@ -1,6 +1,6 @@
 ## Project setup
 
-1) This repo git clone project set
+1) Project set using this repo
 
 2) Composer install
 
@@ -18,9 +18,41 @@
 
 ## Over view
 
-1) Home page
+1) Home
 
 <img src="https://github.com/NayakVandana/laravel_auth_profile_crud_task/blob/main/public/assets/images/image.png"> 
+
+2) Register
+
+<img src="https://github.com/NayakVandana/laravel_auth_profile_crud_task/blob/main/public/assets/images/image1.png"> 
+
+1) Login
+<img src="https://github.com/NayakVandana/laravel_auth_profile_crud_task/blob/main/public/assets/images/image2.png"> 
+
+3) Dashborad 
+
+<img src="https://github.com/NayakVandana/laravel_auth_profile_crud_task/blob/main/public/assets/images/image3.png"> 
+
+4) Add
+
+<img src="https://github.com/NayakVandana/laravel_auth_profile_crud_task/blob/main/public/assets/images/image4.png"> 
+
+5) Show
+
+<img src="https://github.com/NayakVandana/laravel_auth_profile_crud_task/blob/main/public/assets/images/image5.png"> 
+
+6) Edit
+
+<img src="https://github.com/NayakVandana/laravel_auth_profile_crud_task/blob/main/public/assets/images/image6.png"> 
+
+6) delete
+
+<img src="https://github.com/NayakVandana/laravel_auth_profile_crud_task/blob/main/public/assets/images/image9.png"> 
+
+6) Log out
+
+<img src="https://github.com/NayakVandana/laravel_auth_profile_crud_task/blob/main/public/assets/images/image7.png"> 
+
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>

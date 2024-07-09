@@ -2,7 +2,7 @@
     <x-slot name="header">
         <div class="flex justify-between h-16">
             <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-                Job detail
+                Task detail
             </h2>
             <div class="mr-5">
                 <a href="{{ route('dashboard') }}"
